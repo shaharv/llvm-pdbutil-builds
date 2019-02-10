@@ -1,5 +1,5 @@
 # llvm-pdbutil-builds
-Home-brewed Windows builds of llvm-pdbutil.
+Unofficial Windows builds of [`llvm-pdbutil`](https://llvm.org/docs/CommandGuide/llvm-pdbutil.html).
 
 **llvm-pdbutil build instructions:**
 
