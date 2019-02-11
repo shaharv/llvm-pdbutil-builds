@@ -1,5 +1,6 @@
 # llvm-pdbutil-builds
-Unofficial Windows builds of [`llvm-pdbutil`](https://llvm.org/docs/CommandGuide/llvm-pdbutil.html).
+
+Unofficial 64-bit Windows builds of [`llvm-pdbutil`](https://llvm.org/docs/CommandGuide/llvm-pdbutil.html).
 
 **llvm-pdbutil build instructions:**
 
