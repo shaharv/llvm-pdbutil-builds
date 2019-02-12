@@ -2,9 +2,9 @@
 
 Unofficial 64-bit Windows builds of [`llvm-pdbutil`](https://llvm.org/docs/CommandGuide/llvm-pdbutil.html).
 
-**llvm-pdbutil build instructions:**
+<h3>llvm-pdbutil build instructions:</h3>
 
-- Clone the LLVM repo: `git clone https://github.com/llvm/llvm-project.git`
+- Clone the LLVM monorepo: `git clone https://github.com/llvm/llvm-project.git`
 - `cd llvm-project`
 - `mkdir build && cd build`
 - If not running from Visual Studio console: `set VSINSTALLDIR=<Path to Visual Studio>\`
