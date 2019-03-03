@@ -29,7 +29,7 @@ Big shout out to the LLVM team for their hard work on PDB support and this great
 
 <h3>msdia140.dll:</h3>
 
-- If you're missing the DIA SDK, you could alternatively install the DIA DLL directly:
+- If you're missing the DIA SDK, you could install the DIA DLL directly:
   1. Unpack `llvm-pdbutil-9.0.0svn-win64-msdiadll64.7z`. 
   2. Register the DLL with: `regsvr32 msdia140.dll`.
 
